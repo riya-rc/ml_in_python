@@ -1,0 +1,24 @@
+a=(int)(input())
+//any complex without spaces can be typecasted 
+i.e., no spaces
+
+
+python2.7- 10/3=3		//determines at runtime
+
+python3
+10/3=3.33333
+
+strings can be compared with ==
+
+//lexicographically 
+"abc"<"cba"	//true due to above
+
+1+True //2
+5*False//0
+
+isinstance(True,int)	//true
+isinstance(True,object)	//True 
+
+Everything is an object
+
+

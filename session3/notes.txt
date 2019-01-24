@@ -1,0 +1,33 @@
+colab.research.google.com
+from sklearn import 
+
+creATetable(trainingdata)
+
+probtable(_)
+
+list(d.items())		[('jatin',100),('ria',100)]	//list of tuples
+d={"jatin":100}katyal
+
+
+def comp(x):
+	return x[1]		#since we need to compare first value of x
+max(d.items(),key=comp)	//not comparator func go to dl2	
+// compares t
+according to first value of key
+
+"riya".lower()
+
+c++ is 5 tims faster than python
+google is on c++
+
+if pip install numpy
+
+weights are the frequency of letters
+jatin.katyal.56
+
+codeing hacks
+
+arnav 
+prateek coding blocks
+short links
+eg: cb.lk

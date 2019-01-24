@@ -1,0 +1,34 @@
+Machine learning-system leaarns on its own and predicts it by experience and data
+eg: 2 4 5=3 //predicts sign
+input dat are features:x
+output are labels:f(x)
+
+predicts marks
+bias=a constant that we add
+best waits
+eg= marks=assgn*2+8*hour study+ early marks*4+c
+2,8,4 are weights
+
+udacity: gaming se car train stops at traffic
+
+predicts blood cells count in health
+snapchat
+
+
+k=3 //size of word
+input 	output	freq
+oun			t 	2
+the 		y 	1
+the 		-	2	//more freq predicts
+
+
+dictionary is formed
+
+d={
+"oun":{
+	"t":2
+}
+}
+d["oun"][["t"]]=2
+
+features and labels next one do in loop

@@ -1,0 +1,16 @@
+import numpy as np
+
+np.random.choice([1,2,3,4],p=[.2,.6,.2])
+
+// p is probabilitity randomly gives output
+then in samplenext:
+do inside if
+
+	probable_cahr=list(ctx[inp].keys())
+	freq=list(ctx[inp].values())
+	return np.random.choice(probable_char,p=freq)
+
+
+#hackerblocks
+
+dev team 

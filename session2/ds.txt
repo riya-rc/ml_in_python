@@ -1,0 +1,31 @@
+immutable:cant be changed
+mutable: can be changed
+ In python all variables are immutable
+
+
+ a=10
+  print(id(a))
+ a=20
+  print(id(a))		//both different
+ bhula k move on doesnt change
+
+ print(id(a))
+
+ Mutable:list,dictionary and sets in python
+
+ a=500
+ b=500
+  print(id(B))
+   print(id(A))		//different
+
+ * -5 SE 255 TK RAM ME ALREADY HOTE HAI USE KARO YA NA KARO ya fir different
+//can change in github
+ a=50
+ b=50
+  print(id(a))
+   print(id(b))		//same 
+
+ a,b=5000,5000
+ id(a)=id(b)
+
+ Same with strings equal id

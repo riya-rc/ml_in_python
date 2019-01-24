@@ -1,0 +1,37 @@
+//	- floor division(floor,ceil)
+not integer division
+
+**-exponentiation
+2**3=8
+
+No increment and decrement in py
+
+Logical: not,and,or
+// True and False(T and F capital)	// no boolean in py
+
+1 and 5		//5
+0 and 2		//0
+2 or 5	//2
+0 or 2	//2
+
+Does short circuiting
+&-goes to next exp
+or-first value
+
+elif- not else if since space makes diff statement
+write if a==10:
+no braces
+
+./a.out riya 34	-are arguments
+
+for not same of py in c++
+
+for has else in python
+for
+
+else:			//has significance else is executed if loop is executed till end only
+print()
+
+flow control statements: break
+continue
+pass

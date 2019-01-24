@@ -1,0 +1,45 @@
+Kind of primitives in python
+1, integer
+2. string /float
+chAR-a string of length 1
+4.complex
+	a=5j
+		<class complex>
+
+
+2. a=" "
+	a=' '
+	a=''' 
+		 '''//ways of defining string
+
+	a="""
+
+		"""//same as above //sligth different
+
+
+3. python is written in c
+4. check on github
+
+5. name of user defined models are identifiers
+
+6. start with a,A,_ and can have number
+7. _ in terminal brings out last output
+
+	>>> 10+5
+	15
+	>>> _
+	15
+
+
+8. Using python as a calculator above
+
+9.Can  write as(a,b,c);
+
+10. i.e., print("abc","xyz",sep=",")	//seperates using comma
+11.print("Hye",end=" ")
+
+12. a=input()	//is a string
+
+13. type coercion /casting in py actual changes c++ doesnt change
+
+

@@ -1,0 +1,17 @@
+immutable list
+*args are tuples
+a=(1,2,3)
+are//prints a
+
+list(tuple(list(a)))	//type conversion
+a=list("jatin")
+print(a)
+['j','a','t','i','n']	//takes iterables
+
+if in function we have to return two do like below
+return(a+b,a-b)	//comma se tuple and can return 2
+a,s =add(a,b)		//unpacks tuple
+
+a=10
+if(a>15,):
+print("")		//prints since tuple not empty

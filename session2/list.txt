@@ -1,0 +1,41 @@
+mutable
+a=[1,2,3,4]
+len(iterable)		//returns no of iterations
+a=[1]
+[1]*4		// 4 times
+
+5 in [1,2,3,4,5]	//true
+
+*backward indexing
+-1,-2,-3
+eg:a[-1]		
+
+** slicing
+a[1:4]	//excluding 4 from 1(1,2,3)	[1,4)//line7
+[2,3,4]
+
+name[1:4:2]		//name="jatin"
+//ai
+2 is jump
+name[::-1]== name for pallindrome	//for reverse	//-1 is jump
+
+name[5:0:-1]
+
+name[1:400000]		//compiles since goes till last element then stops so no error
+
+insert 
+append
+in jupyter
+insert?	//gives details
+if a=[1,4,"ria"]
+a.remove("ria")
+a.insert(1,"jatin")
+
+a=[7,5,8]
+del a[2]	//removes a[2]
+
+method works with objects
+self:object context
+all methods are func. why?
+
+

@@ -1,0 +1,23 @@
+cohesion: where interdependent is more. whole program is mingled.
+coupling:less dependent
+
+software dev:more cohesion
+
+// by default function returns none
+eg: 
+print(print(add(2,3)))		//if def add(a,b)
+									print(a+b)
+5
+None
+NOne
+
+DEFAULT ARGUMENT VALUES
+actual: which is passed
+formal: in def
+
+1>positional parameters
+here also2> keyworded para
+	def show(a,b=10,c=20):
+		print(a,b,c)
+	show(1, c=100)		//explicitly state c=100 like print()
+

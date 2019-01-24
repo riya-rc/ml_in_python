@@ -1,0 +1,13 @@
+python me sab object
+>everything is array of int,string,etc
+
+PACKING AND UNPACK OF ARGS
+
+lambda func
+
+add =lambda a,b: a+b		// single line without parenthesis	//clean codes benefit
+replica of
+def add(a,b):
+	return a+b
+
+add(1,2)		//works

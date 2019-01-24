@@ -1,0 +1,45 @@
+globals()			//gives name of global variable
+eg:
+a=10
+def x():
+	a=20		//a+=10 is wrong since a=a+10 no local a earlier
+	print(a)
+
+
+x()
+print(a)	//20  10
+
+// dont  use global variable in function
+
+// global a // specify then change
+a=a+10
+//out: 20 20
+
+* parenthesis has to be there
+*FUNCTION IS AN OBJECT AND EVERYTHING IS AN OBJECT THEREFORE FUNC WITHIN FUNC IS VALID
+INTERPRETED LANGUAGE
+
+CLOSURE: goes to closest value
+Shares same global
+
+*nonlocal:goes to closest defing variable
+	a=10
+def x():
+	a=20
+	def y():	#closures func within func
+		nonlocal  a		#goes to closest a
+		a+=100
+		print(a)
+	y()
+	print(a)
+
+x()
+print(a)	
+
+DONT DO PASS BY VALUE AND REFERENCE IN PYTHON
+
+* a,b=b,a
+
+NEW: FUNCTIONS WITHIN FUNCTONS
+
+from __future__ import print
